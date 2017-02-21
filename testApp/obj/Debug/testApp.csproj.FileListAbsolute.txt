@@ -1,0 +1,14 @@
+F:\myDevelopment\GameOn\testApp\bin\Debug\testApp.exe.config
+F:\myDevelopment\GameOn\testApp\bin\Debug\testApp.exe
+F:\myDevelopment\GameOn\testApp\bin\Debug\testApp.pdb
+F:\myDevelopment\GameOn\testApp\bin\Debug\EntityFramework.dll
+F:\myDevelopment\GameOn\testApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\myDevelopment\GameOn\testApp\bin\Debug\GameOn.DataLayer.dll
+F:\myDevelopment\GameOn\testApp\bin\Debug\GameOn.ModelClasses.dll
+F:\myDevelopment\GameOn\testApp\bin\Debug\GameOn.DataLayer.pdb
+F:\myDevelopment\GameOn\testApp\bin\Debug\GameOn.ModelClasses.pdb
+F:\myDevelopment\GameOn\testApp\bin\Debug\EntityFramework.xml
+F:\myDevelopment\GameOn\testApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\myDevelopment\GameOn\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+F:\myDevelopment\GameOn\testApp\obj\Debug\testApp.exe
+F:\myDevelopment\GameOn\testApp\obj\Debug\testApp.pdb

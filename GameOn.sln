@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOn.ModelClasses", "GameOn.ModelClasses\GameOn.ModelClasses.csproj", "{0D59F304-BD8E-4239-B656-4FE9110CAF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOn.DataLayer", "GameOn.DataLayer\GameOn.DataLayer.csproj", "{1F182369-9816-497F-9C72-E2AABEE7B615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testApp", "testApp\testApp.csproj", "{504B01E2-7E77-409B-97B5-4EA34BFB10A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D59F304-BD8E-4239-B656-4FE9110CAF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D59F304-BD8E-4239-B656-4FE9110CAF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D59F304-BD8E-4239-B656-4FE9110CAF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D59F304-BD8E-4239-B656-4FE9110CAF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F182369-9816-497F-9C72-E2AABEE7B615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F182369-9816-497F-9C72-E2AABEE7B615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F182369-9816-497F-9C72-E2AABEE7B615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F182369-9816-497F-9C72-E2AABEE7B615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
