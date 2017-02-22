@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace GameOn.ModelClasses
 {
@@ -14,6 +15,7 @@ namespace GameOn.ModelClasses
             _events = new List<Event>();
         }
 
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int UserId { get; set; }
 
         public string FirstName { get; set; }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using GameOn.DataLayer;
+using GameOn.DataLayer.Managers;
 
 namespace testApp
 {
@@ -13,13 +14,10 @@ namespace testApp
 
         private static void GetUsers()
         {
-            using (var context = new GameOnContext())
+            var users = new UserManager();
+            foreach (var user in users.GetList())
             {
-                var users = context.Users.ToList();
-                foreach (var user in users)
-                {
-                    Console.WriteLine(user.FirstName);
-                }
+                Console.WriteLine(user.FirstName);
             }
         }
     }

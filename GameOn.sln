@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOn.DataLayer", "GameOn.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testApp", "testApp\testApp.csproj", "{504B01E2-7E77-409B-97B5-4EA34BFB10A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOn.DataLayer.Test", "GameOn.DataLayer.Test\GameOn.DataLayer.Test.csproj", "{EE4C1D3B-E5C2-4256-B5A1-D420A38543A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{504B01E2-7E77-409B-97B5-4EA34BFB10A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4C1D3B-E5C2-4256-B5A1-D420A38543A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4C1D3B-E5C2-4256-B5A1-D420A38543A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4C1D3B-E5C2-4256-B5A1-D420A38543A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4C1D3B-E5C2-4256-B5A1-D420A38543A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

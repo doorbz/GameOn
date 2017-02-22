@@ -1,7 +1,10 @@
-﻿namespace GameOn.ModelClasses
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace GameOn.ModelClasses
 {
     public class Sport
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int SportId { get; set; }
 
         public string Name { get; set; }

@@ -1,0 +1,13 @@
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.DataLayer.Test.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.DataLayer.Test.pdb
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\EntityFramework.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.DataLayer.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.ModelClasses.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.DataLayer.pdb
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\GameOn.ModelClasses.pdb
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\EntityFramework.xml
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\bin\Debug\EntityFramework.SqlServer.xml
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\obj\Debug\GameOn.DataLayer.Test.csprojResolveAssemblyReference.cache
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\obj\Debug\GameOn.DataLayer.Test.dll
+F:\myDevelopment\GameOn\GameOn.DataLayer.Test\obj\Debug\GameOn.DataLayer.Test.pdb
